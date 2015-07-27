@@ -1,0 +1,46 @@
+body {
+    margin-top: 0px;
+}
+.content {
+    width: 100%;
+    text-align: center;
+}
+
+.clock {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 5rem;
+}
+
+.clock #hours, .clock #min, .clock #sec {
+    display: inline;
+}
+
+#form {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+#form #task {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+#form .add-btn {
+    margin-top: 5px;
+    width: 100%;
+}
+
+.tasklist {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.highlight {
+    background-color: #FF0000;
+}
